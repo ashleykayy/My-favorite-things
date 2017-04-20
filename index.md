@@ -3,7 +3,7 @@
 <h2>Spectacular Mountain</h2>
 <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
 
-You can use the [editor on GitHub](https://github.com/ashleykayy/My-favorite-things/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://am22.akamaized.net/tms/cnt/uploads/2016/10/harley-quinn-robbie.jpeg) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
